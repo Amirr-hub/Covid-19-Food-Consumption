@@ -1,2 +1,3 @@
 # Effects of Covid-19 on Food Consumption
 This project explores how the COVID-19 pandemic influenced consumer spending on food in the U.S. from 2020 to 2021. Using Tableau, I cleaned and visualized data to uncover both immediate and longer-term trends. The dashboard highlights notable shifts, including a sales spike in early 2020 followed by a significant decline in 2021, with "Meats and Poultry" experiencing the most volatility. The analysis offers insight into changing consumer behavior and supports strategic planning in retail and supply chain sectors.
+![Dashboard](https://github.com/user-attachments/assets/536ec4f9-67de-46c3-bad1-ae695c7d3037)
